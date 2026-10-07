@@ -1,0 +1,265 @@
+[
+  {
+    "slug": "capital-town-residences",
+    "title": "Capital Town Residences",
+    "type": "house-and-lot",
+    "location": "Capital Town",
+    "city": "San Fernando",
+    "developer": "Ayala Land",
+    "priceFrom": 6500000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "floorArea": 180,
+    "lotArea": 120,
+    "status": "available",
+    "featured": true,
+    "summary": "Premium single-attached homes inside a master-planned business district, minutes from SM Telabastagan and the Provincial Capitol.",
+    "description": [
+      "Capital Town Residences sits at the heart of Pampanga's fastest-growing central business district, offering a rare mix of city convenience and gated-community security.",
+      "Each unit is turned over with a spacious living and dining area, a functional kitchen, and a landscaped front yard suited for a growing family.",
+      "The development is walking distance to the CSFP Government Center, the SONA public market, and a growing strip of restaurants and offices."
+    ],
+    "features": [
+      "Gated subdivision with 24/7 security",
+      "Wide roads and covered walkways",
+      "Clubhouse and swimming pool",
+      "Landscaped parks and open spaces",
+      "Near SM City Telabastagan and Robinsons Starmills"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-capital-town-1/1200/800",
+      "https://picsum.photos/seed/mayap-capital-town-2/1200/800",
+      "https://picsum.photos/seed/mayap-capital-town-3/1200/800"
+    ]
+  },
+  {
+    "slug": "azure-north-tower",
+    "title": "Azure North Tower",
+    "type": "condo",
+    "location": "Diosdado Macapagal Ave",
+    "city": "San Fernando",
+    "developer": "SMDC",
+    "priceFrom": 3200000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "floorArea": 44,
+    "lotArea": null,
+    "status": "available",
+    "featured": true,
+    "summary": "Resort-style condo living with pool decks, retail strips, and easy access to the North Luzon Expressway.",
+    "description": [
+      "Azure North Tower brings SMDC's resort-inspired condo concept to Pampanga, with wide pool decks, function areas, and ground floor retail.",
+      "Units range from studio to two-bedroom layouts, ideal for young professionals, small families, or investors eyeing rental income near business districts.",
+      "The tower is a short drive to the San Fernando exit of NLEX and to Clark, making it convenient for commuters and frequent travelers."
+    ],
+    "features": [
+      "Resort-style pool deck and lounge areas",
+      "24-hour security and CCTV",
+      "Retail arcade at the ground floor",
+      "Function rooms and fitness gym",
+      "5 minutes from NLEX San Fernando exit"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-azure-north-1/1200/800",
+      "https://picsum.photos/seed/mayap-azure-north-2/1200/800",
+      "https://picsum.photos/seed/mayap-azure-north-3/1200/800"
+    ]
+  },
+  {
+    "slug": "alviera-country-club-estates",
+    "title": "Alviera Country Club Estates",
+    "type": "house-and-lot",
+    "location": "Alviera",
+    "city": "Porac",
+    "developer": "Ayala Land & Leonio Land",
+    "priceFrom": 9800000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "floorArea": 260,
+    "lotArea": 300,
+    "status": "available",
+    "featured": true,
+    "summary": "Elevated lots with mountain views inside a 1,125-hectare master-planned estate at the foot of the Zambales mountain range.",
+    "description": [
+      "Alviera Country Club Estates offers spacious lot cuts with clear mountain views, part of the larger Alviera mixed-use estate development.",
+      "Residents enjoy access to the Alviera Golf Club, Outlets at Alviera, and a growing industrial and commercial hub nearby.",
+      "This is suited for end-users wanting a quieter, elevated address, as well as investors banking on Porac's continued growth."
+    ],
+    "features": [
+      "Mountain-view elevated lots",
+      "Access to Alviera Golf and Country Club",
+      "Near Outlets at Alviera and Alviera Industrial Park",
+      "Wide, tree-lined boulevards",
+      "Nature reserves and jogging trails"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-alviera-1/1200/800",
+      "https://picsum.photos/seed/mayap-alviera-2/1200/800",
+      "https://picsum.photos/seed/mayap-alviera-3/1200/800"
+    ]
+  },
+  {
+    "slug": "rockwell-nepo-residences",
+    "title": "Rockwell at Nepo Residences",
+    "type": "condo",
+    "location": "Nepo Center, McArthur Highway",
+    "city": "Angeles",
+    "developer": "Rockwell Land",
+    "priceFrom": 5400000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": 32,
+    "lotArea": null,
+    "status": "reserved",
+    "featured": true,
+    "summary": "Rockwell's first development outside Metro Manila, bringing luxury condo living to the heart of Angeles City.",
+    "description": [
+      "Rockwell at Nepo Residences is set within a redeveloped Nepo Center, combining retail, dining, and residential towers in one integrated estate.",
+      "Units are finished to Rockwell's signature quality standards, appealing to buyers who want a premium address near Clark and Angeles' commercial core.",
+      "The estate is envisioned to include a mall, office towers, and a central park, positioning it as a long-term investment in Angeles City."
+    ],
+    "features": [
+      "Rockwell-branded quality finishes",
+      "Integrated retail and dining estate",
+      "Close to Clark Freeport and Angeles CBD",
+      "Landscaped central park (planned)",
+      "Function rooms, pool, and fitness center"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-rockwell-1/1200/800",
+      "https://picsum.photos/seed/mayap-rockwell-2/1200/800",
+      "https://picsum.photos/seed/mayap-rockwell-3/1200/800"
+    ]
+  },
+  {
+    "slug": "monterey-heights",
+    "title": "Monterey Heights",
+    "type": "house-and-lot",
+    "location": "Brgy. Dolores",
+    "city": "Mabalacat",
+    "developer": "Camella",
+    "priceFrom": 4200000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floorArea": 90,
+    "lotArea": 100,
+    "status": "available",
+    "featured": false,
+    "summary": "Affordable single-detached and duplex homes close to Clark Freeport Zone and Mabalacat's growing commercial strip.",
+    "description": [
+      "Monterey Heights offers value-priced house and lot packages suited for first-time homebuyers and OFW families.",
+      "The community is a short drive from the Clark Freeport Zone, SM Telabastagan, and the Mabalacat exit of NLEX and SCTEX.",
+      "Model units include single-attached, duplex, and single-detached options across multiple lot cuts."
+    ],
+    "features": [
+      "Value-for-money house and lot packages",
+      "Near Clark Freeport Zone and SCTEX",
+      "Community clubhouse and playground",
+      "Perimeter fence and guarded entrance",
+      "Flexible in-house and bank financing"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-monterey-1/1200/800",
+      "https://picsum.photos/seed/mayap-monterey-2/1200/800",
+      "https://picsum.photos/seed/mayap-monterey-3/1200/800"
+    ]
+  },
+  {
+    "slug": "the-orchards-magalang",
+    "title": "The Orchards Magalang",
+    "type": "house-and-lot",
+    "location": "Brgy. San Nicolas",
+    "city": "Magalang",
+    "developer": "Sta. Lucia Land",
+    "priceFrom": 3100000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "floorArea": 75,
+    "lotArea": 90,
+    "status": "available",
+    "featured": false,
+    "summary": "A quiet farm-to-suburb community in Magalang, ideal for buyers who want space and fresh air within reach of the city.",
+    "description": [
+      "The Orchards Magalang is designed around wide open spaces, tree-lined streets, and a laid-back provincial lifestyle.",
+      "It's a practical choice for families who work in San Fernando or Angeles but prefer a quieter home base, roughly 30 minutes away.",
+      "Lot-only and house and lot packages are both available, with several model unit options."
+    ],
+    "features": [
+      "Farm-to-suburb community concept",
+      "Lot-only and house and lot options",
+      "30 minutes from San Fernando and Angeles",
+      "Basketball court and open parks",
+      "In-house financing available"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-orchards-1/1200/800",
+      "https://picsum.photos/seed/mayap-orchards-2/1200/800",
+      "https://picsum.photos/seed/mayap-orchards-3/1200/800"
+    ]
+  },
+  {
+    "slug": "riverpark-place-mexico",
+    "title": "Riverpark Place",
+    "type": "condo",
+    "location": "Brgy. Sta. Maria",
+    "city": "Mexico",
+    "developer": "Filinvest Land",
+    "priceFrom": 2800000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "floorArea": 28,
+    "lotArea": null,
+    "status": "available",
+    "featured": false,
+    "summary": "Low-rise, mid-cost condo living along the riverside, a practical entry point for first-time investors in Pampanga.",
+    "description": [
+      "Riverpark Place offers a mid-rise condo option for buyers who want to own property in Pampanga without a house and lot's maintenance requirements.",
+      "The location in Mexico provides easy access to San Fernando's business district while remaining close to more affordable land values.",
+      "Studio and one-bedroom cuts are available, popular with young professionals and rental-income investors."
+    ],
+    "features": [
+      "Mid-cost entry price point",
+      "Riverside, low-density setting",
+      "Close to San Fernando business district",
+      "Swimming pool and multi-purpose hall",
+      "Rent-to-own and bank financing options"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-riverpark-1/1200/800",
+      "https://picsum.photos/seed/mayap-riverpark-2/1200/800",
+      "https://picsum.photos/seed/mayap-riverpark-3/1200/800"
+    ]
+  },
+  {
+    "slug": "garden-of-life-memorial-estate",
+    "title": "Garden of Life Memorial Estate",
+    "type": "other",
+    "location": "Brgy. Sto. Domingo",
+    "city": "Magalang",
+    "developer": "Golden Haven",
+    "priceFrom": 85000,
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "floorArea": 0,
+    "lotArea": 4,
+    "status": "available",
+    "featured": false,
+    "summary": "Memorial lots set in a landscaped garden estate, offered on flexible installment terms for family lot planning.",
+    "description": [
+      "Garden of Life Memorial Estate offers bronze, silver, and garden lot categories within a well-maintained, landscaped memorial park.",
+      "Flexible payment terms make it accessible for families planning ahead, with options for single and family-sized lots.",
+      "The estate includes a chapel, function hall, and dedicated caretaking staff."
+    ],
+    "features": [
+      "Landscaped garden memorial estate",
+      "Bronze, silver, and garden lot categories",
+      "On-site chapel and function hall",
+      "Flexible installment terms",
+      "Perpetual care and maintenance"
+    ],
+    "images": [
+      "https://picsum.photos/seed/mayap-garden-life-1/1200/800",
+      "https://picsum.photos/seed/mayap-garden-life-2/1200/800"
+    ]
+  }
+]

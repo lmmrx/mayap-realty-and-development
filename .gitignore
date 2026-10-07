@@ -33,6 +33,14 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# runtime data: SMTP credentials, customer inquiries, session state, uploads
+/src/data/email-settings.json
+/src/data/inquiries.json
+/src/data/session-security.json
+/src/data/*.tmp
+/public/uploads/*
+!/public/uploads/.gitkeep
+
 # vercel
 .vercel
 
